@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "154458911571",
+    "firebase_url": "https://tembeakenya-3879a.firebaseio.com",
+    "project_id": "tembeakenya-3879a",
+    "storage_bucket": "tembeakenya-3879a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154458911571:android:227a24d26c4d23f9d927a6",
+        "android_client_info": {
+          "package_name": "com.example.async_redux_state"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154458911571-26gibr8k01u3336em8k5n6r2ongnva2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QcqYkZM9FE5xKsZJ2b6iRMz1fxl5Qno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154458911571-26gibr8k01u3336em8k5n6r2ongnva2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154458911571:android:a935274984cced6cd927a6",
+        "android_client_info": {
+          "package_name": "com.example.new_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154458911571-26gibr8k01u3336em8k5n6r2ongnva2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QcqYkZM9FE5xKsZJ2b6iRMz1fxl5Qno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154458911571-26gibr8k01u3336em8k5n6r2ongnva2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154458911571:android:f124f66eb4318146d927a6",
+        "android_client_info": {
+          "package_name": "com.newcompany.savannah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154458911571-26gibr8k01u3336em8k5n6r2ongnva2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QcqYkZM9FE5xKsZJ2b6iRMz1fxl5Qno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154458911571-26gibr8k01u3336em8k5n6r2ongnva2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
